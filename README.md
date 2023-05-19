@@ -2,7 +2,7 @@
 Guia de iteradores en JS
 
 # for ->
-    se utiliza para ejecutar un bloque de código repetidamente mientras se cumple una condición. La sintaxis básica de un bucle for es la siguiente:
+   se utiliza para ejecutar un bloque de código repetidamente mientras se cumple una condición. La sintaxis básica de un bucle for es la siguiente:
         
         for (inicialización; condición; incremento) {
             // Código a ejecutar mientras se cumpla la condición
