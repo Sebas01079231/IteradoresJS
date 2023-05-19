@@ -12,14 +12,14 @@ Guia de iteradores en JS
     incremento se utiliza para actualizar la variable de control después de cada iteración del bucle. Por lo general, se utiliza para aumentar o disminuir la variable de control en un valor determinado.
     
 # while ->
-    se utiliza para ejecutar un bloque de código mientras se cumpla una condición. La sintaxis básica de un bucle while es la siguiente:
+se utiliza para ejecutar un bloque de código mientras se cumpla una condición. La sintaxis básica de un bucle while es la siguiente:
 
         while (condición) {
             // Código a ejecutar mientras se cumpla la condición
         }
 
 # do-while ->
-    se utiliza para ejecutar un bloque de código al menos una vez y luego repetirlo mientras se cumpla una condición. La sintaxis básica de un bucle do-while es la siguiente:
+se utiliza para ejecutar un bloque de código al menos una vez y luego repetirlo mientras se cumpla una condición. La sintaxis básica de un bucle do-while es la siguiente:
 
         do {
             // Código a ejecutar al menos una vez
