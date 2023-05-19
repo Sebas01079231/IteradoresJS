@@ -12,28 +12,28 @@ Guia de iteradores en JS
     incremento se utiliza para actualizar la variable de control después de cada iteración del bucle. Por lo general, se utiliza para aumentar o disminuir la variable de control en un valor determinado.
     
 # while ->
-se utiliza para ejecutar un bloque de código mientras se cumpla una condición. La sintaxis básica de un bucle while es la siguiente:
+   se utiliza para ejecutar un bloque de código mientras se cumpla una condición. La sintaxis básica de un bucle while es la siguiente:
 
         while (condición) {
             // Código a ejecutar mientras se cumpla la condición
         }
 
 # do-while ->
-se utiliza para ejecutar un bloque de código al menos una vez y luego repetirlo mientras se cumpla una condición. La sintaxis básica de un bucle do-while es la siguiente:
+   se utiliza para ejecutar un bloque de código al menos una vez y luego repetirlo mientras se cumpla una condición. La sintaxis básica de un bucle do-while es la siguiente:
 
         do {
             // Código a ejecutar al menos una vez
         } while (condición);
 
 # forEach ->
-es un método que se utiliza para recorrer los elementos de un array y ejecutar una función para cada uno de ellos.
+   es un método que se utiliza para recorrer los elementos de un array y ejecutar una función para cada uno de ellos.
         
         array.forEach(function(elemento) {
             // Código a ejecutar para cada elemento
         });
 
 # map -> 
-igual a forEach solo que CREA una VARIABLE
+   igual a forEach solo que CREA una VARIABLE
 
     const pendiente = pendientes.map((pendiente) => console.log(pendiente));
 
@@ -53,8 +53,8 @@ igual a forEach solo que CREA una VARIABLE
         }
 
 # forIn ->
--itera sobre objetos
--misma sintaxis de forOf
+   -itera sobre objetos
+   -misma sintaxis de forOf
 
         const auto = {
             modelo: 'Camaro',
